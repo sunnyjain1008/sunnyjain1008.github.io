@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+[![HitCount](http://hits.dwyl.io/rbhatia46/React-Portfolio.svg)](http://hits.dwyl.io/rbhatia46/React-Portfolio)
+![Star this repository](https://img.shields.io/github/stars/rbhatia46/React-Portfolio?style=social)
 
-You can use the [editor on GitHub](https://github.com/sunnyjain1008/sunnyjain1008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
-### Markdown
+## Preview
+![Preview](https://image.ibb.co/e5uBf0/Capture.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How to use
+1. Clone/Download the repo.
+2. Run  ``` npm install ```.
+3. Change the values in ```src/resumeData.js``` to suit your use-case.
+4. Run ```npm start``` to spin the up the local dev server port 3000.(http://localhost:3000).
+5. Make required changes in ```src/resumeData.js``` to suit your needs.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sunnyjain1008/sunnyjain1008.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
